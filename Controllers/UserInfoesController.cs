@@ -60,7 +60,7 @@ namespace CustomerSupportLogger.Controllers
             if (ModelState.IsValid)
             {
                 var user = await _context.UserInfos
-                    .FirstOrDefaultAsync(u => u.UserId == userInfo.UserId && u.Password == userInfo.Password);
+                    .FirstOrDefaultAsync(u => u.UserId == userInfo.UserId && u.Email == userInfo.Email && u.Password == userInfo.Password);
 
                 if (user != null)
                 {
@@ -68,7 +68,7 @@ namespace CustomerSupportLogger.Controllers
                 }
                 else
                 {
-                    ModelState.AddModelError("", "Wrong UserID or Password");
+                    ModelState.AddModelError("", "Incorrect UserID, Email or Password");
                 }
             }
             return View(userInfo);
