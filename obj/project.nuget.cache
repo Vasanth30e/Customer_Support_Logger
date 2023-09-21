@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0VlnJBz2MgmF5fcLjsz3A5RP8m29K9bDbnr9dN1bZfJADUy0DzImOdv8Nbs0Rnhi3/5sll0wG/pmO4aby73dvQ==",
+  "dgSpecHash": "z41zV46vghb4XfKe2/KwGYjiKP0aNSdRKnXZmooArkVg7nFU3UtyGE6GZ9SgxUSU9b4FPz3FwHP65FyM24jnpg==",
   "success": true,
-  "projectFilePath": "D:\\Training\\Phasae End Project 4\\CustomerSupportLogger\\CustomerSupportLogger\\CustomerSupportLogger.csproj",
+  "projectFilePath": "D:\\Training\\Phase_End_Project_4\\CustomerSupportLogger\\CustomerSupportLogger\\CustomerSupportLogger.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vasanth\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Vasanth\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Training\\Phasae End Project 4\\CustomerSupportLogger\\CustomerSupportLogger\\CustomerSupportLogger.csproj": {}
+    "D:\\Training\\Phase_End_Project_4\\CustomerSupportLogger\\CustomerSupportLogger\\CustomerSupportLogger.csproj": {}
   },
   "projects": {
-    "D:\\Training\\Phasae End Project 4\\CustomerSupportLogger\\CustomerSupportLogger\\CustomerSupportLogger.csproj": {
+    "D:\\Training\\Phase_End_Project_4\\CustomerSupportLogger\\CustomerSupportLogger\\CustomerSupportLogger.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Training\\Phasae End Project 4\\CustomerSupportLogger\\CustomerSupportLogger\\CustomerSupportLogger.csproj",
+        "projectUniqueName": "D:\\Training\\Phase_End_Project_4\\CustomerSupportLogger\\CustomerSupportLogger\\CustomerSupportLogger.csproj",
         "projectName": "CustomerSupportLogger",
-        "projectPath": "D:\\Training\\Phasae End Project 4\\CustomerSupportLogger\\CustomerSupportLogger\\CustomerSupportLogger.csproj",
+        "projectPath": "D:\\Training\\Phase_End_Project_4\\CustomerSupportLogger\\CustomerSupportLogger\\CustomerSupportLogger.csproj",
         "packagesPath": "C:\\Users\\Vasanth\\.nuget\\packages\\",
-        "outputPath": "D:\\Training\\Phasae End Project 4\\CustomerSupportLogger\\CustomerSupportLogger\\obj\\",
+        "outputPath": "D:\\Training\\Phase_End_Project_4\\CustomerSupportLogger\\CustomerSupportLogger\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vasanth\\AppData\\Roaming\\NuGet\\NuGet.Config",
